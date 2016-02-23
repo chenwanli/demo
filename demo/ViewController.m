@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    //冯景安先生写的内容
+    //冯景安先生写的内容chen
 }
 
 - (void)didReceiveMemoryWarning {
@@ -25,4 +25,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+/*
+ 123456789
+ */
 @end
